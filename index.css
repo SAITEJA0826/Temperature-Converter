@@ -57,8 +57,8 @@ input{
 .button:hover{
     background-color: transparent;
     border-width: 1px;
-    border-color: rgb(221, 255, 0);
-    color: rgb(221, 255, 0);
+    border-color: #ffffff;
+    color: #ffffff;
     transform: scale(1.05);
 }
 #btn{
@@ -79,8 +79,8 @@ input{
 #btn:hover{
     background-color: transparent;
     border-width: 1.5px;
-    border-color: rgb(221, 255, 0);
-    color: rgb(221, 255, 0);
+    border-color: #ffffff;
+    color: #ffffff;
     transform: scale(1.05);
     border-radius: 0;
 }
